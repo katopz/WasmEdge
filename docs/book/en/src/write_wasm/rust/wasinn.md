@@ -13,7 +13,7 @@ In this section, we will use [the example repository](https://github.com/second-
 
 * [Prerequisites](#prerequisites)
   * [OpenVINO backend](#get-wasmedge-with-wasi-nn-plug-in-openvino-backend)
-  * [PyTorch beckend](#get-wasmedge-with-wasi-nn-plug-in-pytorch-backend)
+  * [PyTorch backend](#get-wasmedge-with-wasi-nn-plug-in-pytorch-backend)
   * TensorFlow backend (Work in progress)
   * [TensorFlow-Lite backend](#get-wasmedge-with-wasi-nn-plug-in-tensorflow-lite-backend)
 * [Write WebAssembly Using WASI-NN](#write-webassembly-using-wasi-nn)
